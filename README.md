@@ -13,3 +13,12 @@ Expected Outcome:- Build a model to predict whether the person will be intereste
 Grading Metric: ROC_AUC_SCORE 
 
 Problem Category:- For the data and objective, it’s evident that this is a Binary Classification Problem in the Tabular Data format
+
+
+
+# NOTE: The filename having jobathon.ipynb is my code which scored the rank of 601 in Analytics Vidya
+
+![image](https://user-images.githubusercontent.com/70314729/120660681-6bc3ad80-c43c-11eb-8425-a2926031e24f.png)
+
+
+## File name having JOB-A-THON - Analytics Vidhya-MAY-2021.ipynb is the code inspired by kaggle in which I have made a few changes 
